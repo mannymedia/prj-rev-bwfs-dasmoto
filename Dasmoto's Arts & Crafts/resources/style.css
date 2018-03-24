@@ -1,0 +1,48 @@
+
+/* arts */
+
+.arts{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+/* brushes greenline */
+
+.brushes{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+/* frames redline */
+
+.frames{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+/* paint blueline */
+
+.paint{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+/* Highlited blue text in paragrah */
+
+.money{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
